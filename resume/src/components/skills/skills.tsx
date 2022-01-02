@@ -46,7 +46,6 @@ export function Skills(props: Props) {
       <SkillDescription title={'Back-End'} description={'Nextjs, Express, Mongoose, Apollo-Server'} />
       <SkillDescription title={'Database'} description={'MongoDB'} />
       <SkillDescription title={'QueryLanguage'} description={'SQL, GraphQL'} />
-      <SkillDescription title={'VCS'} description={'Perforce'} />
     </Container>
   );
 }
